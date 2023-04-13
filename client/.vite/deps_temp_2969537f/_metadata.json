@@ -1,0 +1,44 @@
+{
+  "hash": "02c7a48c",
+  "browserHash": "52be84af",
+  "optimized": {
+    "mobx": {
+      "src": "../../node_modules/mobx/dist/mobx.esm.js",
+      "file": "mobx.js",
+      "fileHash": "03cf1407",
+      "needsInterop": false
+    },
+    "mobx-react-lite": {
+      "src": "../../node_modules/mobx-react-lite/es/index.js",
+      "file": "mobx-react-lite.js",
+      "fileHash": "c721fcaa",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "ffb39f0d",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "0e837244",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-YHIQ4YLE": {
+      "file": "chunk-YHIQ4YLE.js"
+    },
+    "chunk-RVSLBP3T": {
+      "file": "chunk-RVSLBP3T.js"
+    },
+    "chunk-ST3U5LCA": {
+      "file": "chunk-ST3U5LCA.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
